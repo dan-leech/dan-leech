@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Stats](https://github-readme-stats.vercel.app/api?username=dan-leech&count_private=true&include_all_commits=true&show_icons=true)
+![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dan-leech&count_private=true&include_all_commits=true&show_icons=true&hide=contribs)
 
 - 🔭 I’m currently working on interesting project, it's with NDA and I cannot tell more.
 - 🌱 I’m currently learning Unity DOTS and DOD in general.
