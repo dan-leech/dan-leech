@@ -9,7 +9,7 @@ backend and APIs, web frontends, cross-platform and native mobile apps, CI/CD, a
 - 🏅 **Top Rated Plus** full-stack developer on Upwork since 2013
 - 🧠 In my free time: an AI side project, a **symbolic engine based on category theory** that extracts patterns from raw sequences.
   In theory, given enough diverse data, it can learn any language and map it onto one it already understands.
-- ⚡ Fun fact: I've been programming since the 5th grade
+- ⚡ Fun fact: I've been programming since the 5th grade, I was 10 years old. We built spaceship simulator with warps in Basic with my classmates in our free time.
 
 ### 🛠 Tech stack
 
